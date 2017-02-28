@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Grav is Running!
+# Grav is Running, and the update was made successfully!
 ## You have installed **Grav** successfully
 
 Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
