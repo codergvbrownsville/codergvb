@@ -1,6 +1,6 @@
 ---
 routes:
-  default: '/main/mypage/'
+  default: '/mypage/'
   canonical: '/canonical/url/alias'
   aliases:
     - '/some/other/route'
