@@ -1,8 +1,8 @@
 ---
-title: Home
+title: MAIN
 ---
 
-# Welcome to Code#RGV!!!!!!!!!!!!
+# ~~~~Welcome to Code#RGV~~~~
 
 #Listing of events:
 
