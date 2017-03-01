@@ -1,8 +1,3 @@
 ---
-routes:
-  default: '/mypage/'
-  canonical: '/canonical/url/alias'
-  aliases:
-    - '/some/other/route'
-    - '/can-be-any-valid-slug'
+title: "THIS IS ANOTHER PAGE"
 ---
