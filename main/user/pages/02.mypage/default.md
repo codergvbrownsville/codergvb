@@ -1,7 +1,6 @@
 ---
-slug: my-page-slug
 routes:
-  default: '/my/example/page'
+  default: '/main/mypage/'
   canonical: '/canonical/url/alias'
   aliases:
     - '/some/other/route'
