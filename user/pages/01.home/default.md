@@ -1,5 +1,8 @@
 ---
-title: MAIN
+title: Main
+taxonomy:
+    tag: [core]
+    author: John Bender
 ---
 
 # *Welcome to Code#RGV !!!!!*
