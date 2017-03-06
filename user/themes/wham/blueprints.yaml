@@ -1,10 +1,10 @@
 name: Wham
 version: 0.1.0
 description: Theme for Code#RGV: Brownsville
-icon: rebel
+icon:
 author:
   name: John Bender
-  email: john@codergv.orh
+  email: john@codergv.org
 homepage: https://github.com/john-bender/grav-theme-wham
 demo: http://demo.yoursite.com
 keywords: grav, theme, etc
