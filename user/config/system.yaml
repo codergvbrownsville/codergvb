@@ -4,7 +4,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: wham
+  theme: courseHub
   markdown:
     extra: false
   process:
