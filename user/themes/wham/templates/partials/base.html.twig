@@ -32,11 +32,10 @@
 {% block header %}
     <div class="header">
         <div class="wrapper padding">
-            <a class="logo left" href="{{ base_url == '' ? '/' : base_url }}">
+            <a class="logo left" href="{{ base_url == '' ? '/' : base_url }}"><img src="images/codergv.jpg"></img></a>
                 <!-- <i class="fa fa-cog"></i> -->
                 <!-- {{ config.site.title }} -->
-                <img src="{{ asset('images/codergv.jpg') }}" />
-            </a>
+                <img src="{{}}" />
             {% block header_navigation %}
             <nav class="main-nav">
                 {% include 'partials/navigation.html.twig' %}
