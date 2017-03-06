@@ -1,3 +1,3 @@
 ---
-title: "THIS IS ANOTHER PAGE"
+title: "About"
 ---

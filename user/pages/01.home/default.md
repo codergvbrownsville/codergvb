@@ -1,5 +1,5 @@
 ---
-title: Main
+title: Meetups
 taxonomy:
     tag: [core]
     author: John Bender
