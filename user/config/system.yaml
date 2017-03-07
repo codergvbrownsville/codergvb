@@ -4,7 +4,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: courseHub
+  theme: course-hub-bootstrap
   markdown:
     extra: false
   process:
