@@ -1,5 +1,6 @@
 ---
 title: Meetups
+body_classes: header-image fullwidth
 taxonomy:
     tag: [core]
     author: John Bender
