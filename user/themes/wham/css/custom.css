@@ -110,7 +110,7 @@ blockquote {
     position: relative;
     display: block;
     line-height: 45px;
-    color: #fff;
+    color: #000;
     padding: 0 20px;
     white-space: nowrap;
 }
@@ -127,7 +127,7 @@ blockquote {
 /* Selected Dropdown nav item */
 .main-nav ul li.selected > a {
     background-color: #fff;
-    color: #175E91;
+    color: #000000;
 }
 
 /* Dropdown CSS */
