@@ -6,9 +6,19 @@ taxonomy:
     author: John Bender
 ---
 
-<video width="300" height="200" autoplay="autoplay">
+<style>
+.container {
+   background-color: red;
+   position: relative;
+   width: 100%;
+   padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+</style>
+<div class="container">
+<video width="300" height="800" autoplay="autoplay">
 <source src="Website_Logo.mp4" type="video/mp4" />
 </video>
+</div>
 
 # *Welcome to Code#RGV !!!!!*
 
