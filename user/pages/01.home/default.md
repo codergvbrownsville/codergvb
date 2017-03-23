@@ -6,7 +6,7 @@ taxonomy:
     author: John Bender
 ---
 
-<video width="300" height="200" autoplay="autoplay", loop="loop">
+<video width="300" height="200" autoplay="autoplay">
 <source src="Website_Logo.mp4" type="video/mp4" />
 </video>
 
