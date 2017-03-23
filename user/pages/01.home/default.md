@@ -5,9 +5,7 @@ taxonomy:
     author: John Bender!
 ---
 
-<video autobuffer autoplay loop width="960" height="143">
-  <source id=mp4 src="Website_Logo.mp4" type="video/mp4" />
-</video>
+<video controls="0" autobuffer autoplay loop style="width: 960px;height: 143px;"><source src="Website_Logo.mp4">Your browser does not support the video tag.</video>
 
 #Listing of events:
 
