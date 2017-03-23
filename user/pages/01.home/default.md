@@ -3,7 +3,7 @@ title: Meetups
 body_classes: header-image fullwidth
 taxonomy:
     tag: [core]
-    author: John Bender
+    author: John Bender!
 ---
 
 <video width="1920" height="286" autoplay="autoplay">
