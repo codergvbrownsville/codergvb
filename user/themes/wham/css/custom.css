@@ -21,12 +21,12 @@ h6 {
 }
 
 a {
-    color: #1F8CD6;
+    color: #000000;
     text-decoration: none;
 }
 
 a:hover {
-    color: #175E91;
+    color: #000000;
 }
 
 pre {
@@ -121,7 +121,7 @@ blockquote {
 
 /*Active dropdown nav item */
 .main-nav ul li:hover > a {
-    background-color: #175E91;
+    background-color: #000000;
 }
 
 /* Selected Dropdown nav item */
