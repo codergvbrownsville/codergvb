@@ -6,8 +6,8 @@ taxonomy:
     author: John Bender
 ---
 
-<video controls loop>
-  <source src="Website_Logo.mp4" type="video/mp4">
+<video width="300" height="200" autoplay="autoplay", loop="loop">
+<source src="Website_Logo.mp4" type="video/mp4" />
 </video>
 
 # *Welcome to Code#RGV !!!!!*
