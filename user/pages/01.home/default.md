@@ -6,11 +6,9 @@ taxonomy:
     author: John Bender
 ---
 
-<div class="aspect-ratio aspect-ratio-16-9">
-    <video autoplay="autoplay" loop="loop">
-    <iframe width="560" height="315" src="Website_Logo.mp4" type="video/mp4" frameborder="0" allowfullscreen=""></iframe>
-    </video>
-</div>
+<video width="1920" height="286" autoplay="autoplay">
+<source src="Website_Logo.mp4" type="video/mp4" />
+</video>
 
 # *Welcome to Code#RGV !!!!!*
 
