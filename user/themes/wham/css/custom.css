@@ -121,7 +121,7 @@ blockquote {
 
 /*Active dropdown nav item */
 .main-nav ul li:hover > a {
-    background-color: #000000;
+    background-color: #e5e5e5;
 }
 
 /* Selected Dropdown nav item */
