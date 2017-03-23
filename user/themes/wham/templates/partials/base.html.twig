@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include 'partials/metadata.html.twig' %}
 
-    <link rel="icon" type="image/png" href="{{ url('theme://images/logo2.png') }}" />
+    <link rel="icon" type="image/png" href="{{ url('theme://images/logo2.png') }}" />-->
     <link rel="canonical" href="{{ page.url(true, true) }}" />
 
     {% block stylesheets %}
@@ -33,7 +33,6 @@
     <div class="header">
         <div class="wrapper padding">
             <a href="{{ base_url == '' ? '/' : base_url }}">
-            <img src="{{url('theme://images/codergv.jpg')}}" alt="Code#RGV: Brownsville">
             </a>
             {% block header_navigation %}
             <nav class="main-nav">
