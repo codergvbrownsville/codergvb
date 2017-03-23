@@ -1,16 +1,15 @@
 ---
 title: Meetups
-body_classes: header-image fullwidth
 taxonomy:
     tag: [core]
     author: John Bender!
 ---
 
+<center>
 <video width="960" height="143" autoplay="autoplay">
 <source src="Website_Logo.mp4" type="video/mp4" />
 </video>
-
-# *Welcome to Code#RGV !!!!!*
+</center>
 
 #Listing of events:
 
