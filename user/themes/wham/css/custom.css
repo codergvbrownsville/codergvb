@@ -76,7 +76,7 @@ blockquote {
 }
 
 .header {
-    background-color: #1F8DD6;
+    background-color: #ffffff;
     color: #eee;
 }
 
@@ -135,7 +135,7 @@ blockquote {
 
 .main-nav ul li ul {
     position: absolute;
-    background-color: #1F8DD6;
+    background-color: #ffffff;
     min-width: 100%;
     text-align: left;
     z-index: 999;
