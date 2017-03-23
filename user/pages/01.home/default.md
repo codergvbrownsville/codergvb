@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 <center>
-<video width="960" height="143" autoplay="autoplay" loop="loop">
+<video width="960" height="143" autoplay="true" loop="true">
 <source src="Website_Logo.mp4" type="video/mp4" />
 </video>
 </center>
