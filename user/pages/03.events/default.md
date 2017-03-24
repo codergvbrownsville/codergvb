@@ -1,7 +1,7 @@
 ---
 title: "events"
 ---
-
+<center>
 #Listing of events:
 
 Date | # | Event | Speakers|
@@ -29,3 +29,4 @@ Date | # | Event | Speakers|
 2016-05-03|	3| Open Data in the U.S. and Brownsville | Alvaro Silva, Johnny Bender
 2016-04-19|	2| Introduction to Code#RGV Brownsville | Johnny Bender
 2016-04-05|	1| The First Day | N/A
+</center>
