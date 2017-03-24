@@ -6,10 +6,10 @@ home:
 pages:
   theme: wham
   markdown:
-    extra: false
+    extra: true
   process:
     markdown: true
-    twig: false
+    twig: true
 
 cache:
   enabled: true
