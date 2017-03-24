@@ -26,6 +26,7 @@ form:
           value: Reset
 
     process:
+
         - email:
             from: "{{ config.plugins.email.from }}"
             to:
