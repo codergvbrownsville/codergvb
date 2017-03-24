@@ -5,7 +5,7 @@ home:
 
 pages:
   theme: wham
-  markdown: true
+  markdown:
     extra: false
   process:
     markdown: true
