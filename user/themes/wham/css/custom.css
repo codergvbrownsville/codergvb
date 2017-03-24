@@ -43,11 +43,7 @@ blockquote {
 
 /* Utility Classes */
 .wrapper {
-    margin: 0 3rem;
-    margin-top: 20px
-    margin-right: 3rem
-    margin-left: 3rem
-    margin-bottom: 20px
+    margin: 20px 3rem 80px 3rem;
 }
 
 .padding {
