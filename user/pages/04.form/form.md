@@ -1,5 +1,5 @@
 ---
-title: A Page with an Example Form
+title: form
 form:
     name: contact-form
     fields:
