@@ -7,7 +7,7 @@
 
 body {
     font-size: 1rem;
-    line-height: 1;
+    line-height: 0.9;
     color: #606d6e;
 }
 
@@ -44,10 +44,14 @@ blockquote {
 /* Utility Classes */
 .wrapper {
     margin: 0 3rem;
+    margin-top: 2px
+    margin-right: 3rem
+    margin-left: 3rem
+    margin-bottom: 2px
 }
 
 .padding {
-    padding: 3rem 1rem;
+    padding: .1rem .1rem;
 }
 
 .left {
