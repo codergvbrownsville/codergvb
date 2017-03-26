@@ -1,14 +1,14 @@
-title: codeRGVb                # Name of the site
+title: Grav                                 # Name of the site
 default_lang: en                            # Default language for site (potentially used by theme)
 
 author:
-  name: John Bender                      # Default author name
-  email: 'john@codergv.org'                   # Default author email
+  name: John Appleseed                      # Default author name
+  email: 'john@email.com'                   # Default author email
 
-taxonomies: [category,tag, author]                  # Arbitrary list of taxonomy types
+taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'The website for Code#RGV: Brownsville, a technology group south Texas'               # Site description
+  description: 'My Grav Site'               # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page
