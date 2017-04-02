@@ -20,9 +20,6 @@ In the announcements section, we encourage folks to introduce other events, ment
 8:00 pm – 10:00 pm - Open Social + Working Session
 At this point, the event switches to an open social + working session. People are invited to break off into groups and work on projects, or join one of our classes hosted by members of Code#RGV: Brownsville. Want to host a class? Tell us!
 
-8:10 pm - Classes Start
-Interested in learning a new skill? Check out our listing of classes here: http://codebrowsville.org/meetup/classes. Classes are modular and hosted by members of Code#RGV: Brownsville. You can find the classes offered at our next event by checking our Events: Listing page. Classes last approximately one hour.
-
 10:00 pm - Move to El Hueso de Fraile
 At this point, there’s usually a tenacious group of folks that migrate next door to El Hueso de Fraile to continue working or socializing.
 
