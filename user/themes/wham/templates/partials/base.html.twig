@@ -18,12 +18,12 @@
         {% do assets.addCss('http://yui.yahooapis.com/pure/0.6.0/pure-min.css', 100) %}
         {% do assets.addCss('https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css', 99) %}
         {% do assets.addCss('theme://css/custom.css', 98) %}
+        {% do assets.addCss('theme://css/template.css') %}
     {% endblock %}
     {{ assets.css() }}
 
     {% block javascripts %}
         {% do assets.addJs('jquery', 100) %}
-        {% do assets.addJs('theme://js/showdown-1.6.3/src/showdown.js') %}
     {% endblock %}
     {{ assets.js() }}
 
