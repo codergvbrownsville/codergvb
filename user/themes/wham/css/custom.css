@@ -11,6 +11,10 @@ body {
     color: #606d6e;
 }
 
+table {
+    border: #000 1px solid;
+}
+
 h1,
 h2,
 h3,
