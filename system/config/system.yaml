@@ -8,7 +8,7 @@ force_ssl: false                            # If enabled, Grav forces to be acce
 custom_base_url: ''                         # Set the base_url manually, e.g. http://yoursite.com/yourpath
 
 languages:
-  supported: []                             # List of languages supported. eg: [en, fr, de]
+  supported: [en]                             # List of languages supported. eg: [en, fr, de]
   include_default_lang: true                # Include the default lang prefix in all URLs
   translations: true                        # Enable translations by default
   translations_fallback: true               # Fallback through supported translations if active lang doesn't exist
@@ -21,7 +21,7 @@ home:
   hide_in_urls: false                       # Hide the home route in URLs
 
 pages:
-  theme: wham                         # Default theme (defaults to "antimatter" theme)
+  theme: wham                               # Default theme (defaults to "antimatter" theme)
   order:
     by: default                             # Order pages by "default", "alpha" or "date"
     dir: asc                                # Default ordering direction, "asc" or "desc"
@@ -34,14 +34,14 @@ pages:
   publish_dates: true                       # automatically publish/unpublish based on dates
   process:
     markdown: true                          # Process Markdown
-    twig: false                             # Process Twig
+    twig: true                              # Process Twig
   twig_first: false                         # Process Twig before markdown when processing both on a page
   never_cache_twig: false                   # Only cache content, never cache twig processed in content (incompatible with `twig_first: true`)
   events:
     page: true                              # Enable page level events
     twig: true                              # Enable Twig level events
   markdown:
-    extra: false                            # Enable support for Markdown Extra support (GFM by default)
+    extra: true                            # Enable support for Markdown Extra support (GFM by default)
     auto_line_breaks: false                 # Enable automatic line breaks
     auto_url_links: false                   # Enable automatic HTML links
     escape_markup: false                    # Escape markup tags into entities
