@@ -29,27 +29,29 @@ Hope to see you there!
 
 Date | # | Event | Agenda | Speakers|
 -----|---|-------|---------|
+2017-04-17| 25| TBD | [Agenda](https://goo.gl/Dc1Qdx) | Ken Aguilar
+2017-04-04| 24| Nutrition on FHIR | [Agenda](https://goo.gl/vMWULo) | Johnny Bender
 2017-03-21| 23| Laravel Framwork | [Agenda](https://goo.gl/4g3pdg) | Oscar Garcia
-2017-03-07| 22| GRAV | [https://goo.gl/Nk2ohZ] | Aldo Martinez
-2017-02-21|	21|	Arduino Workshop | [https://goo.gl/flAoTD] | Norb Lara
-2017-02-07|	20|	Lasers | [https://goo.gl/ni1xTH] | Gerardo Martinez
-2017-01-17|	19|	Project DOC | [https://goo.gl/P9Z6IH] | Dhiraj Pathak
-2017-12-20|	18|	Hack Night | [https://goo.gl/MgdUH3] | N/A
-2017-12-06|	17|	Epidemiology: Nutrition | [https://goo.gl/jrZ71B] | Daisy Zamora
-2016-11-15|	16|	Integration Engine | [https://goo.gl/3LI1SH] | Genaro Garza
-2016-11-01|	15|	Search Engine Optimization | [https://goo.gl/w0U7hX] | Mauricio Pina
-2016-10-17|	14|	Nuclear Reactors | [https://goo.gl/wtTLsu] | David Avila, Abdullah Weiss
-2016-10-04|	13|	Gravitational Waves | | Marc Normandin
-2016-09-20|	12|	STARGATE | | Louis Dartez
-2016-09-06|	11|	360 RGV | | Michael Barnes
-2016-08-16|	10|	Cameron County Department of Health and Human Services | | Juan Saldana, Sergio Moore
-2016-08-02|	9| COW | | Rene Ramirez
-2016-07-19|	8| Resource Directory | | Edward Yao, Itzelh Flores
-2016-07-08|	-| *Secret* Pop-Up Bike Trail Hackathon | | N/A
-2016-07-05|	7| Overview of Full Stack | | Cele Gracia
-2016-06-21|	6| Brownsville PUB and Brownsville Wellness Coalition | | David Guerra, Veronica Rosenbaum
-2016-06-07|	5| Rio Grande Valley Health Information Exchange | | Andrew Lombardo, Genaro Garza
-2016-05-17|	4| ValleyProgress.org and Introduction to Drones | | Edward Yao, Michael Roa, Norb Lara
-2016-05-03|	3| Open Data in the U.S. and Brownsville | | Alvaro Silva, Johnny Bender
-2016-04-19|	2| Introduction to Code#RGV Brownsville | | Johnny Bender
-2016-04-05|	1| The First Day | | N/A
+2017-03-07| 22| GRAV | [Agenda](https://goo.gl/Nk2ohZ) | Aldo Martinez
+2017-02-21|	21|	Arduino Workshop | [Agenda](https://goo.gl/flAoTD) | Norb Lara
+2017-02-07|	20|	Lasers | [Agenda](https://goo.gl/ni1xTH) | Gerardo Martinez
+2017-01-17|	19|	Project DOC | [Agenda](https://goo.gl/P9Z6IH) | Dhiraj Pathak
+2017-12-20|	18|	Hack Night | [Agenda](https://goo.gl/MgdUH3) | N/A
+2017-12-06|	17|	Epidemiology: Nutrition | [Agenda](https://goo.gl/jrZ71B) | Daisy Zamora
+2016-11-15|	16|	Integration Engine | [Agenda](https://goo.gl/3LI1SH) | Genaro Garza
+2016-11-01|	15|	Search Engine Optimization | [Agenda](https://goo.gl/w0U7hX) | Mauricio Pina
+2016-10-17|	14|	Nuclear Reactors | [Agenda](https://goo.gl/wtTLsu) | David Avila, Abdullah Weiss
+2016-10-04|	13|	Gravitational Waves | [Agenda](https://goo.gl/iB2fs5) | Marc Normandin
+2016-09-20|	12|	STARGATE | [Agenda](https://goo.gl/mQK1Hy) | Louis Dartez
+2016-09-06|	11|	360 RGV | [Agenda](https://goo.gl/2ohnc2) | Michael Barnes
+2016-08-16|	10|	Cameron County Department of Health and Human Services | [Agenda](https://goo.gl/qupxxA) | Juan Saldana, Sergio Moore
+2016-08-02|	9| COW | [Agenda](https://goo.gl/HH9Vjx) | Rene Ramirez
+2016-07-19|	8| Resource Directory | [Agenda](https://goo.gl/KTzwWo) | Edward Yao, Itzelh Flores
+2016-07-08|	-| *Secret* Pop-Up Bike Trail Hackathon | [Agenda](https://goo.gl/F72vWb) | N/A
+2016-07-05|	7| Overview of Full Stack | [Agenda](https://goo.gl/Bi1I54) | Cele Gracia
+2016-06-21|	6| Brownsville PUB and Brownsville Wellness Coalition | [Agenda](https://goo.gl/cnuIWk) | David Guerra, Veronica Rosenbaum
+2016-06-07|	5| Rio Grande Valley Health Information Exchange | [Agenda](https://goo.gl/UnUYjg) | Andrew Lombardo, Genaro Garza
+2016-05-17|	4| ValleyProgress.org and Introduction to Drones | [Agenda](https://goo.gl/S7zU1u) | Edward Yao, Michael Roa, Norb Lara
+2016-05-03|	3| Open Data in the U.S. and Brownsville | [Agenda](https://goo.gl/0u8S8U) | Alvaro Silva, Johnny Bender
+2016-04-19|	2| Introduction to Code#RGV Brownsville | [Agenda](https://goo.gl/4pWa3E) | Johnny Bender
+2016-04-05|	1| The First Day | [Agenda](https://goo.gl/O1Xgl2) | N/A
