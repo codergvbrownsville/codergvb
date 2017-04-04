@@ -29,7 +29,7 @@ Hope to see you there!
 
 Date | # | Event | Agenda | Speakers|
 -----|---|-------|---------|
-2017-03-21| 23| Laravel Framwork | (Agenda)[https://goo.gl/4g3pdg] | Oscar Garcia
+2017-03-21| 23| Laravel Framwork | [Agenda](https://goo.gl/4g3pdg) | Oscar Garcia
 2017-03-07| 22| GRAV | [https://goo.gl/Nk2ohZ] | Aldo Martinez
 2017-02-21|	21|	Arduino Workshop | [https://goo.gl/flAoTD] | Norb Lara
 2017-02-07|	20|	Lasers | [https://goo.gl/ni1xTH] | Gerardo Martinez
