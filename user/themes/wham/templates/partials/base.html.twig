@@ -66,6 +66,12 @@
 {% block bottom %}
     {{ assets.js('bottom') }}
 {% endblock %}
-
+<script>
+  $(function(){
+    $(document).ready(function() {
+      $('table').addClass('table')
+    })
+  })
+</script>
 </body>
 </html>
