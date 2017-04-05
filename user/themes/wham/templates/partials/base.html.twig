@@ -17,8 +17,7 @@
         {% do assets.addCss('theme://css/grids-min.css', 103) %}
         {% do assets.addCss('http://yui.yahooapis.com/pure/0.6.0/pure-min.css', 100) %}
         {% do assets.addCss('https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css', 99) %}
-        {% do assets.addCss('theme://css/custom.css', 98) %}
-        {% do assets.addCss('theme://css/template.css') %}
+        {% do assets.addCss('theme://css/newcustom.css') %}
         {% do assets.addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css') %}
     {% endblock %}
     {{ assets.css() }}
@@ -30,7 +29,7 @@
 
 {% endblock head%}
 </head>
-<body id="top" class="{{ page.header.body_classes }}">
+<body id="top" class="{{ page.header.body_classes }} container">
 
 {% block header %}
     <div class="header">
