@@ -1,5 +1,5 @@
 title: Grav                                 # Name of the site
-default_lang: en                            # Default language for site (potentially used by theme)
+default_lang:                               # Default language for site (potentially used by theme)
 
 author:
   name: John Appleseed                      # Default author name
