@@ -1,5 +1,5 @@
 ---
-title: "events !!!!"
+title: "events"
 ---
 
 What happens at a Meetup?
