@@ -176,10 +176,8 @@ blockquote {
 }
 
 .video--tag video{
-  width: 70%;
   max-width: 1920px;
   vertical-align: middle;
-  /*object-fit: contain;*/
   margin-left: auto;
   margin-right: auto;
 }
