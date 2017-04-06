@@ -26,6 +26,8 @@ At this point, the event switches to an open social + working session. People ar
 + ####**10:00 pm - Move to El Hueso de Fraile**
 At this point, there’s usually a tenacious group of folks that migrate next door to El Hueso de Fraile to continue working or socializing.
 
+***
+
 <p style="text-align: center; font-size: 200%; font-weight:bold;">
 Hope to see you there!
 </p>
