@@ -174,18 +174,20 @@ blockquote {
     content: '\f105';
 }
 
-/* Video Insert*/
-.videoInsert {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    min-width: none;
-    min-height: none;
-    max-width: 1920px
-    max-height: 286px
-    width: auto;
-    height: auto;
-    z-index: -100;
-    background-size: cover;
-    overflow: hidden;
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
