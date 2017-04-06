@@ -173,3 +173,11 @@ blockquote {
 .main-nav .has-children .has-children > a:after {
     content: '\f105';
 }
+
+.video--tag {
+  width: 90%;
+  max-width: 1920px;
+  text-align: center;
+  vertical-align: middle;
+  object-fit: contain;
+}
