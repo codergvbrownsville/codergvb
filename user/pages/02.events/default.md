@@ -28,10 +28,6 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 ***
 
-<p style="text-align: center; font-size: 200%; font-weight:bold;">
-Hope to see you there!
-</p>
-
 #Listing of events:
 
 Date | # | Event | Agenda | Speakers|
