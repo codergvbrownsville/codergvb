@@ -91,6 +91,7 @@ blockquote {
 
 .footer {
     background-color: #fdfdfd;
+    position: relative;
 }
 
 /* Menu Settings */
