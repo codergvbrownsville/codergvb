@@ -2,30 +2,31 @@
 title: "events"
 ---
 
-<p style="text-align: center; font-size: 300%; font-weight:bold;">
+<p style="text-align: center; font-size: 600%; font-weight:bold;">
 What happens at a Meetup?
 </p>
+=========================
 The Code#RGV Brownsville: Meetup starts every first and third Tuesday at 7:00 pm. We meet at The WorkPub on 847 East Elizabeth Street. The event is free and open to anyone, especially folks who aren’t programmers.
 
-+ ##**6:30 pm – Get Settled**
++ ###**6:30 pm – Get Settled**
   Free food is always provided at our Meetups. Come around 6:30 pm to get settled and grab a drink and a slice of pizza, wings, sandwich or wrap. We try to always have healthy options available.
 
-+ ##**7:00 pm – Welcome and Presentation + Q&A**
++ ###**7:00 pm – Welcome and Presentation + Q&A**
   We officially start at 7:00 pm with a brief presentation followed by a question/answer session. Anyone can propose a talk. Let us know if you have something to say!
 
-+ ##**7:30 pm - Introductions**
++ ###**7:30 pm - Introductions**
   Everyone in the room introduces themselves and tells the group why they’re at the Meetup.
 
-+ ##**7:45 pm – Announcements**
++ ###**7:45 pm – Announcements**
   In the announcements section, we encourage folks to introduce other events, mention newsworthy articles, and technology-related job announcements. We record these announcements in our weekly meeting notes and agenda Google Doc.
 
-+ ##**8:00 pm – 10:00 pm - Open Social + Working Session**
++ ###**8:00 pm – 10:00 pm - Open Social + Working Session**
 At this point, the event switches to an open social + working session. People are invited to break off into groups and work on projects, or join one of our classes hosted by members of Code#RGV: Brownsville. Want to host a class? Tell us!
 
-+ ##**10:00 pm - Move to El Hueso de Fraile**
++ ###**10:00 pm - Move to El Hueso de Fraile**
 At this point, there’s usually a tenacious group of folks that migrate next door to El Hueso de Fraile to continue working or socializing.
 
-<p style="text-align: center;">
+<p style="text-align: center; font-size: 200%; font-weight:bold;">
 Hope to see you there!
 </p>
 
