@@ -3,7 +3,7 @@ title: "events"
 ---
 
 <p style="text-align: center;">
-#**What happens at a Meetup?**
+<h1><b>What happens at a Meetup?</b></h1>
 </p>
 The Code#RGV Brownsville: Meetup starts every first and third Tuesday at 7:00 pm. We meet at The WorkPub on 847 East Elizabeth Street. The event is free and open to anyone, especially folks who aren’t programmers.
 
