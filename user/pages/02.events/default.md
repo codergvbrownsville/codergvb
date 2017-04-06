@@ -32,7 +32,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Agenda | Speakers|
 -----|---|-------|---------|
-2017-04-17| 25| Javascript: Currying, Partial Application, and Composition  | [Agenda](https://goo.gl/Dc1Qdx) | Ken Aguilar
+2017-04-18| 25| Javascript: Currying, Partial Application, and Composition  | [Agenda](https://goo.gl/Dc1Qdx) | Ken Aguilar
 2017-04-04| 24| Nutrition on FHIR | [Agenda](https://goo.gl/vMWULo) | Johnny Bender
 2017-03-21| 23| Laravel Framwork | [Agenda](https://goo.gl/4g3pdg) | Oscar Garcia
 2017-03-07| 22| GRAV | [Agenda](https://goo.gl/Nk2ohZ) | Aldo Martinez
