@@ -9,7 +9,7 @@ What happens at a Meetup?
 The Code#RGV Brownsville: Meetup starts every first and third Tuesday at 7:00 pm. We meet at The WorkPub on 847 East Elizabeth Street. The event is free and open to anyone, especially folks who aren’t programmers.
 
 + ####**6:30 pm – Get Settled**
-  Free food is always provided at our Meetups. Come around 6:30 pm to get settled and grab a drink and a slice of pizza, wings, sandwich or wrap. We try to always have healthy options available.
+  Free food and drinks are always provided at our Meetups. Come around 6:30 pm to get settled and grab a drink and a slice of pizza, wings, sandwich or wrap. We try to always have healthy options available.
 
 + ####**7:00 pm – Welcome and Presentation + Q&A**
   We officially start at 7:00 pm with a brief presentation followed by a question/answer session. Anyone can propose a talk. Let us know if you have something to say!
