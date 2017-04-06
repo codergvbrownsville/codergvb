@@ -179,8 +179,10 @@ blockquote {
     position: absolute;
     right: 0;
     bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
+    min-width: none;
+    min-height: none;
+    max-width: 1920px
+    max-height: 286px
     width: auto;
     height: auto;
     z-index: -100;
