@@ -5,7 +5,7 @@ taxonomy:
     author: John Bender!
 ---
 
-<div class="video-container">
+<div class="wrap-video">
  <video autobuffer autoplay loop>
    <source id=mp4 src="Website_Logo.mp4" type="video/mp4" />
  </video>
