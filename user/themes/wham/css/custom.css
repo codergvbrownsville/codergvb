@@ -252,10 +252,3 @@ blockquote {
           border-top: 1px solid #EEEEEE;
           font-style: normal;
           text-transform: uppercase; }
-
-.header-image #body .flush-top {
-  margin-top: -9.5rem;
-  padding-top: 9rem; }
-
-#header > .grid, #header #logo, #header #navbar {
-  height: 100%; }
