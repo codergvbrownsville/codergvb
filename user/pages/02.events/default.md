@@ -32,8 +32,8 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Agenda | Speakers|
 -----|---|-------|---------|
-2017-05-16| 27| Arduino Workshop | [Agenda] | Norb Lara
-2017-05-02| 26| Hack Night | [Agenda] | N/A
+2017-05-16| 27| Arduino Workshop | [Agenda] () | Norb Lara
+2017-05-02| 26| Hack Night | [Agenda] () | N/A
 2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition] (https://github.com/piq9117/compositionTalk) | [Agenda](https://goo.gl/Dc1Qdx) | Ken Aguilar
 2017-04-04| 24| Nutrition on FHIR | [Agenda](https://goo.gl/vMWULo) | Johnny Bender
 2017-03-21| 23| Laravel Framwork | [Agenda](https://goo.gl/4g3pdg) | Oscar Garcia
