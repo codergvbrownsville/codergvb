@@ -19,5 +19,4 @@ feed:
 
 pagination: true
 ---
-
-<cemter> </center>
+s

@@ -1,9 +1,8 @@
 ---
 title: "CountRORO"
-date: 17:34 06/27/2014
+date: 11:40 05/04/2017
 taxonomy:
     category: blog
-    tag: [hardware, bicycles, arduino]
 ---
 
 Sample description

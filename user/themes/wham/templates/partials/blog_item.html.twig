@@ -53,12 +53,12 @@
     {% elseif truncate and page.summary != page.content %}
         <div class="p-summary e-content">
             {{ page.summary }}
-            <p><a href="{{ page.url }}">{{ 'i want to read this'|t }}</a></p>
+            <!-- <p><a href="{{ page.url }}">{{ 'i want to read this'|t }}</a></p> -->
         </div>
     {% elseif truncate %}
         <div class="p-summary e-content">
             {{ page.content }}
-            <p><a href="{{ page.url }}">{{ 'i want to read this'|t }}</a></p>
+            <!-- <p><a href="{{ page.url }}">{{ 'i want to read this'|t }}</a></p> -->
         </div>
     {% else %}
         <div class="e-content">
