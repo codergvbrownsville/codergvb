@@ -19,5 +19,6 @@ feed:
 
 pagination: true
 ---
-
+<center>
 These are active projects we work on at Code#RGV: Brownsville. Come join us at a [Meetup](http://codergvb.org/events) to contribute!
+</center>
