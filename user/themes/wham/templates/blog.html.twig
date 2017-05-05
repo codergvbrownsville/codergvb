@@ -5,8 +5,6 @@
 	{% block content %}
 		{% set blog_image = page.media.images|first.grayscale().contrast(20).brightness(-100).colorize(-35,81,122) %}
 
-<!-- Could not find background-image tag in css templates in antimatter -->
-
 		{% if blog_image %}
 		<div class="flush-top blog-header blog-header-image" style="background-image: url({{ blog_image.url }});">
 		{% else %}
