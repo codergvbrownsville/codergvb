@@ -20,5 +20,5 @@ feed:
 pagination: true
 ---
 <center>
-These are active projects we work on at Code#RGV: Brownsville. Come join us at a [Meetup](http://codergvb.org/events) to contribute!
+These are active projects we work on at Code#RGV: Brownsville. Come join us at a <a href="http://codergvb.org/events">Meetup</a> to contribute!
 </center>
