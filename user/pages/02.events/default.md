@@ -30,7 +30,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 #Listing of events:
 
-<center> Date </center> | <center> # </center>| <center>Event </center> | <center> Slides </center> | <center> Video </center> | <center>Speakers </center>|
+<center> Date | # | Event | Slides | Video | Speakers| </center>
 -----|---|-------|---------|
 2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | TBD | TBD| Norb Lara
 2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) | N/A  | N/A | N/A
