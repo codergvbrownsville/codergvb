@@ -37,47 +37,26 @@ Date | # | Event | Slides | Video | Speakers|
 2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://www.facebook.com/events/732180300240557/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)| [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1792772777704561/) | Ken Aguilar
 2017-04-04| 24| [Nutrition on FHIR](https://www.facebook.com/events/678930188958271/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://drive.google.com/file/d/0B_LMs7B2LDYvWlBxV2duZFhveTA/view?usp=sharing) | |Johnny Bender
 2017-03-21| 23| [Laravel Framework](https://www.facebook.com/events/1216843111765699/) |  | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/johnnypbender/videos/vb.679756671/10155111825091672/?type=2&theater) | Oscar Garcia
-2017-03-07| 22| [GRAV](https://www.facebook.com/events/747913215386047/) |  |  | Aldo Martinez
-2017-02-21|	21|	[Arduino Workshop](https://www.facebook.com/events/969914836473646/) | |  | Norb Lara
-
-2017-02-07|	20|	Lasers | [Agenda](https://goo.gl/ni1xTH) | Gerardo Martinez
-
-2017-01-17|	19|	Project DOC | [Agenda](https://goo.gl/P9Z6IH) | Dhiraj Pathak
-
-2017-12-20|	18|	Hack Night | [Agenda](https://goo.gl/MgdUH3) |
-
-2017-12-06|	17|	Epidemiology: Nutrition | [Agenda](https://goo.gl/jrZ71B) | Daisy Zamora
-
-2016-11-15|	16|	Integration Engine | [Agenda](https://goo.gl/3LI1SH) | Genaro Garza
-
-2016-11-01|	15|	Search Engine Optimization | [Agenda](https://goo.gl/w0U7hX) | Mauricio Pina
-
-2016-10-17|	14|	Nuclear Reactors | [Agenda](https://goo.gl/wtTLsu) | David Avila, Abdullah Weiss
-
-2016-10-04|	13|	Gravitational Waves | [Agenda](https://goo.gl/iB2fs5) | Marc Normandin
-
-2016-09-20|	12|	STARGATE | [Agenda](https://goo.gl/mQK1Hy) | Louis Dartez
-
-2016-09-06|	11|	360 RGV | [Agenda](https://goo.gl/2ohnc2) | Michael Barnes
-
-2016-08-16|	10|	Cameron County Department of Health and Human Services | [Agenda](https://goo.gl/qupxxA) | Juan Saldana, Sergio Moore
-
-2016-08-02|	9| COW | [Agenda](https://goo.gl/HH9Vjx) | Rene Ramirez
-
-2016-07-19|	8| Resource Directory | [Agenda](https://goo.gl/KTzwWo) | Edward Yao, Itzelh Flores
-
-2016-07-08|	-| *Secret* Pop-Up Bike Trail Hackathon | [Agenda](https://goo.gl/F72vWb) | N/A
-
-2016-07-05|	7| Overview of Full Stack | [Agenda](https://goo.gl/Bi1I54) | Cele Gracia
-
-2016-06-21|	6| Brownsville PUB and Brownsville Wellness Coalition | [Agenda](https://goo.gl/cnuIWk) | David Guerra, Veronica Rosenbaum
-
-2016-06-07|	5| Rio Grande Valley Health Information Exchange | [Agenda](https://goo.gl/UnUYjg) | Andrew Lombardo, Genaro Garza
-
-2016-05-17|	4| ValleyProgress.org and Introduction to Drones | [Agenda](https://goo.gl/S7zU1u) | Edward Yao, Michael Roa, Norb Lara
-
-2016-05-03|	3| Open Data in the U.S. and Brownsville | [Agenda](https://goo.gl/0u8S8U) | Alvaro Silva, Johnny Bender
-
-2016-04-19|	2| Introduction to Code#RGV Brownsville | [Agenda](https://goo.gl/4pWa3E) | Johnny Bender
-
-2016-04-05|	1| The First Day | [Agenda](https://goo.gl/O1Xgl2) | N/A
+2017-03-07| 22| [GRAV](https://www.facebook.com/events/747913215386047/) | | | Aldo Martinez
+2017-02-21|	21|	[Arduino Workshop](https://www.facebook.com/events/969914836473646/) | | | Norb Lara
+2017-02-07|	20|	[Lasers](https://www.facebook.com/events/753320381481754/) | | | Gerardo Martinez
+2017-01-17|	19|	[Project DOC](https://www.facebook.com/events/154631715029417/) | | | Dhiraj Pathak
+2017-12-20|	18|	[Hack Night](https://www.facebook.com/events/569874219880193/) | | | |
+2017-12-06|	17|	[Epidemiology: Nutrition](https://www.facebook.com/events/1823881687849727/) | | | Daisy Zamora
+2016-11-15|	16|	[Integration Engine](https://www.facebook.com/events/1817022961917074/) | | | Genaro Garza
+2016-11-01|	15|	[Search Engine Optimization](https://www.facebook.com/events/1346127542112267/) | | | Mauricio Pina
+2016-10-18|	14|	[Nuclear Reactors](https://www.facebook.com/events/965993420189443/) | | | David Avila, Abdullah Weiss
+2016-10-04|	13|	[Gravitational Waves](https://www.facebook.com/events/1768206486786869/) | | | Marc Normandin
+2016-09-20|	12|	[STARGATE](https://www.facebook.com/events/343697212634525/) | | | Louis Dartez
+2016-09-06|	11|	[360 RGV](https://www.facebook.com/events/1657542251224510/) | | | Michael Barnes
+2016-08-16|	10|	[Cameron County Department of Health and Human Services](https://www.facebook.com/events/1049465525140539/) | | | Juan Saldana, Sergio Moore
+2016-08-02|	9| [COW](https://www.facebook.com/events/1752591338352737/) | | | Rene Ramirez
+2016-07-19|	8| [Resource Directory](https://www.facebook.com/events/129387614161338/) | | | Edward Yao, Itzelh Flores
+2016-07-08|	-| [*Secret* Pop-Up Bike Trail Hackathon](https://goo.gl/F72vWb) | | |
+2016-07-05|	7| [Overview of Full Stack](https://www.facebook.com/events/217535031973989/) | | | Cele Gracia
+2016-06-21|	6| [Brownsville PUB and Brownsville Wellness Coalition](https://www.facebook.com/events/1150950568258839/) | | | David Guerra, Veronica Rosenbaum
+2016-06-07|	5| [Rio Grande Valley Health Information Exchange](https://www.facebook.com/events/111332255955852/) | | | Andrew Lombardo, Genaro Garza
+2016-05-17|	4| [ValleyProgress.org and Introduction to Drones](https://www.facebook.com/events/864037550385029/) | | | Edward Yao, Michael Roa, Norb Lara
+2016-05-03|	3| [Open Data in the U.S. and Brownsville](https://www.facebook.com/events/1267715809923659/) | | | Alvaro Silva, Johnny Bender
+2016-04-19|	2| [Introduction to Code#RGV Brownsville](https://www.facebook.com/events/1032954170085752/) | | | Johnny Bender
+2016-04-05|	1| [The First Day](https://www.facebook.com/events/607420792747611/) | | |
