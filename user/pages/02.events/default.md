@@ -34,9 +34,9 @@ Date | # | Event | Slides | Video | Speakers|
 -----|---|-------|---------|
 2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | TBD | TBD| Norb Lara
 2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) | N/A  | N/A | N/A
-2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://www.facebook.com/events/732180300240557/) | <center>[<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)</center>| <center> [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1792772777704561/) </center> | Ken Aguilar
+2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://www.facebook.com/events/732180300240557/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)| [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1792772777704561/) | Ken Aguilar
 
-2017-04-04| 24| [Nutrition on FHIR] | <center>[<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)</center>  | Johnny Bender
+2017-04-04| 24| [Nutrition on FHIR] | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk) | Johnny Bender
 
 2017-03-21| 23| Laravel Framwork | [Agenda](https://goo.gl/4g3pdg) | Oscar Garcia
 
