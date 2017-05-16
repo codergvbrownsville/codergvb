@@ -33,7 +33,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 Date | # | Event | Slides | Video | Speakers|
 -----|---|-------|---------|
 2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | TBD | TBD| Norb Lara
-2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) |   |  |
+2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) | | | |
 2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://www.facebook.com/events/732180300240557/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)| [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1792772777704561/) | Ken Aguilar
 2017-04-04| 24| [Nutrition on FHIR](https://www.facebook.com/events/678930188958271/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://drive.google.com/file/d/0B_LMs7B2LDYvWlBxV2duZFhveTA/view?usp=sharing) | |Johnny Bender
 2017-03-21| 23| [Laravel Framework](https://www.facebook.com/events/1216843111765699/) |  | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/johnnypbender/videos/vb.679756671/10155111825091672/?type=2&theater) | Oscar Garcia
@@ -44,7 +44,7 @@ Date | # | Event | Slides | Video | Speakers|
 
 2017-01-17|	19|	Project DOC | [Agenda](https://goo.gl/P9Z6IH) | Dhiraj Pathak
 
-2017-12-20|	18|	Hack Night | [Agenda](https://goo.gl/MgdUH3) | 
+2017-12-20|	18|	Hack Night | [Agenda](https://goo.gl/MgdUH3) |
 
 2017-12-06|	17|	Epidemiology: Nutrition | [Agenda](https://goo.gl/jrZ71B) | Daisy Zamora
 
