@@ -32,7 +32,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Facebook | Slides | Video | Speakers|
 -----|---|-------|---------|
-2017-05-16| 27| Arduino Workshop | [<i class="fa fa-facebook" aria-hidden="true"></i>](http://codergvb.org) | Norb Lara
+2017-05-16| 27| Arduino Workshop | <center>[<i class="fa fa-facebook" aria-hidden="true"></i>](http://codergvb.org)</center> | Norb Lara
 2017-05-02| 26| Hack Night | [Agenda](http://codergvb.org) | N/A
 2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://github.com/piq9117/compositionTalk) | [Agenda](https://goo.gl/Dc1Qdx) | Ken Aguilar
 2017-04-04| 24| Nutrition on FHIR | [Agenda](https://goo.gl/vMWULo) | Johnny Bender
