@@ -53,11 +53,11 @@ Date | # | Event | Slides | Video | Speakers|
 2016-08-16|	10|	[Cameron County Department of Health and Human Services](https://www.facebook.com/events/1049465525140539/) | | | Juan Saldana, Sergio Moore
 2016-08-02|	9| [COW](https://www.facebook.com/events/1752591338352737/) | | | Rene Ramirez
 2016-07-19|	8| [Resource Directory](https://www.facebook.com/events/129387614161338/) | | | Edward Yao, Itzelh Flores
-2016-07-08|	-| [*Secret* Pop-Up Bike Trail Hackathon](https://goo.gl/F72vWb) | | |
+2016-07-08|	-| [*Secret* Pop-Up Bike Trail Hackathon](https://goo.gl/F72vWb) | | | |
 2016-07-05|	7| [Overview of Full Stack](https://www.facebook.com/events/217535031973989/) | | | Cele Gracia
 2016-06-21|	6| [Brownsville PUB and Brownsville Wellness Coalition](https://www.facebook.com/events/1150950568258839/) | | | David Guerra, Veronica Rosenbaum
 2016-06-07|	5| [Rio Grande Valley Health Information Exchange](https://www.facebook.com/events/111332255955852/) | | | Andrew Lombardo, Genaro Garza
 2016-05-17|	4| [ValleyProgress.org and Introduction to Drones](https://www.facebook.com/events/864037550385029/) | | | Edward Yao, Michael Roa, Norb Lara
 2016-05-03|	3| [Open Data in the U.S. and Brownsville](https://www.facebook.com/events/1267715809923659/) | | | Alvaro Silva, Johnny Bender
 2016-04-19|	2| [Introduction to Code#RGV Brownsville](https://www.facebook.com/events/1032954170085752/) | | | Johnny Bender
-2016-04-05|	1| [The First Day](https://www.facebook.com/events/607420792747611/) | | |
+2016-04-05|	1| [The First Day](https://www.facebook.com/events/607420792747611/) | | | |
