@@ -32,7 +32,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Slides | Video | Speakers|
 -----|---|-------|---------|
-2017-06-06| 28| [Wix Web Design Workshop](https://www.facebook.com/events/124974144744935/) | | | Nayeli Gomez
+2017-06-06| 28| [Wix Web Design Workshop](https://www.facebook.com/events/124974144744935/) | [Slides](https://docs.google.com/presentation/d/1e4nRVHEjuoRgGYN8HWpkppL3mr6l2wE0PGMnEf7m5mg/edit?usp=sharing) | | Nayeli Gomez
 2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | | | Norb Lara
 2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) | | | |
 2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://www.facebook.com/events/732180300240557/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)| [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1792772777704561/) | Ken Aguilar
