@@ -5,8 +5,8 @@ taxonomy:
     category: blog
 ---
 
-Sample description
+Advocating for open data from the City of Brownsville
 
 ===
 
-[Brownsville open data](https://docs.google.com/spreadsheets/d/1_pv30hR3CsAq_zXndNUXVBG0uq958WRKuVxyGcAVIvE/edit?usp=sharing)
+Open data inventory started here, but it out of date: [Brownsville open data](https://docs.google.com/spreadsheets/d/1_pv30hR3CsAq_zXndNUXVBG0uq958WRKuVxyGcAVIvE/edit?usp=sharing)
