@@ -32,32 +32,33 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Content | Video | Speakers|
 -----|---|-------|---------|
-2017-06-06| 28| [Wix Web Design Workshop](https://www.facebook.com/events/124974144744935/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://docs.google.com/presentation/d/1e4nRVHEjuoRgGYN8HWpkppL3mr6l2wE0PGMnEf7m5mg/edit?usp=sharing) | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1819075155074323/) | Nayeli Gomez
-2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | | | Norb Lara
+2017-06-06| 28| [Wix Web Design Workshop](https://www.facebook.com/events/124974144744935/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://docs.google.com/presentation/d/1e4nRVHEjuoRgGYN8HWpkppL3mr6l2wE0PGMnEf7m5mg/edit?usp=sharing) [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.wix.com/) | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1819075155074323/) | Nayeli Gomez
+2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.arduino.cc/) | | Norb Lara
 2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) | | | |
 2017-04-18| 25| [Javascript: Currying, Partial Application, and Composition](https://www.facebook.com/events/732180300240557/) | [<i class="fa fa-github-alt" aria-hidden="true"></i>](https://github.com/piq9117/compositionTalk)| [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1792772777704561/) | Ken Aguilar
-2017-04-04| 24| [Nutrition on FHIR](https://www.facebook.com/events/678930188958271/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://drive.google.com/file/d/0B_LMs7B2LDYvWlBxV2duZFhveTA/view?usp=sharing) | |Johnny Bender
-2017-03-21| 23| [Laravel Framework](https://www.facebook.com/events/1216843111765699/) |  | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/johnnypbender/videos/vb.679756671/10155111825091672/?type=2&theater) | Oscar Garcia
-2017-03-07| 22| [GRAV](https://www.facebook.com/events/747913215386047/) | | | Aldo Martinez
-2017-02-21|	21|	[Arduino Workshop](https://www.facebook.com/events/969914836473646/) | | | Norb Lara
+2017-04-04| 24| [Nutrition on FHIR](https://www.facebook.com/events/678930188958271/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://drive.google.com/file/d/0B_LMs7B2LDYvWlBxV2duZFhveTA/view?usp=sharing) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.hl7.org/fhir/) |Johnny Bender
+2017-03-21| 23| [Laravel Framework](https://www.facebook.com/events/1216843111765699/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://laravel.com/) | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/johnnypbender/videos/vb.679756671/10155111825091672/?type=2&theater) | Oscar Garcia
+2017-03-07| 22| [GRAV](https://www.facebook.com/events/747913215386047/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://getgrav.org/) | | Aldo Martinez
+2017-02-21|	21|	[Arduino Workshop](https://www.facebook.com/events/969914836473646/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.arduino.cc/) | | Norb Lara
 2017-02-07|	20|	[Lasers](https://www.facebook.com/events/753320381481754/) | | | Gerardo Martinez
-2017-01-17|	19|	[Project DOC](https://www.facebook.com/events/154631715029417/) | | | Dhiraj Pathak
+2017-01-17|	19|	[Project DOC](https://www.facebook.com/events/154631715029417/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.pwc.com/us/en/health-industries/DoubleJump.html) | | Dhiraj Pathak
 2017-12-20|	18|	[Hack Night](https://www.facebook.com/events/569874219880193/) | | | |
 2017-12-06|	17|	[Epidemiology: Nutrition](https://www.facebook.com/events/1823881687849727/) | | | Daisy Zamora
-2016-11-15|	16|	[Integration Engine](https://www.facebook.com/events/1817022961917074/) | | | Genaro Garza
+2016-11-15|	16|	[Integration Engine](https://www.facebook.com/events/1817022961917074/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://rgvhie.org/) | | Genaro Garza
 2016-11-01|	15|	[Search Engine Optimization](https://www.facebook.com/events/1346127542112267/) | | | Mauricio Pina
 2016-10-18|	14|	[Nuclear Reactors](https://www.facebook.com/events/965993420189443/) | | | David Avila, Abdullah Weiss
 2016-10-04|	13|	[Gravitational Waves](https://www.facebook.com/events/1768206486786869/) | | | Marc Normandin
-2016-09-20|	12|	[STARGATE](https://www.facebook.com/events/343697212634525/) | | | Louis Dartez
-2016-09-06|	11|	[360 RGV](https://www.facebook.com/events/1657542251224510/) | | | Michael Barnes
-2016-08-16|	10|	[Cameron County Department of Health and Human Services](https://www.facebook.com/events/1049465525140539/) | | | Juan Saldana, Sergio Moore
-2016-08-02|	9| [COW](https://www.facebook.com/events/1752591338352737/) | | | Rene Ramirez
+2016-09-20|	12|	[STARGATE](https://www.facebook.com/events/343697212634525/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.utrgv.edu/stargate/) | | Louis Dartez
+2016-09-06|	11|	[360 RGV](https://www.facebook.com/events/1657542251224510/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.360rgv.com/) | | Michael Barnes
+2016-08-16|	10|	[Cameron County Department of Health and Human Services](https://www.facebook.com/events/1049465525140539/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.co.cameron.tx.us/) | | Juan Saldana, Sergio Moore
+2016-08-02|	9| [COW](https://www.facebook.com/events/1752591338352737/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.codergv.org/programs/cow/) | | Rene Ramirez
 2016-07-19|	8| [Resource Directory](https://www.facebook.com/events/129387614161338/) | | | Edward Yao, Itzelh Flores
 2016-07-08|	-| [*Secret* Pop-Up Bike Trail Hackathon](https://goo.gl/F72vWb) | | | |
 2016-07-05|	7| [Overview of Full Stack](https://www.facebook.com/events/217535031973989/) | | | Cele Gracia
-2016-06-21|	6| [Brownsville PUB and Brownsville Wellness Coalition](https://www.facebook.com/events/1150950568258839/) | | | David Guerra, Veronica Rosenbaum
-2016-06-07|	5| [Rio Grande Valley Health Information Exchange](https://www.facebook.com/events/111332255955852/) | | | Andrew Lombardo, Genaro Garza
-2016-05-17|	4| [ValleyProgress.org and Introduction to Drones](https://www.facebook.com/events/864037550385029/) | | | Edward Yao, Michael Roa, Norb Lara
+2016-06-21|	6| [Brownsville PUB and Brownsville Wellness Coalition](https://www.facebook.com/events/1150950568258839/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.brownsville-pub.com/) [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.brownsvillewellnesscoalition.com/) | | David Guerra, Veronica Rosenbaum
+2016-06-07|	5| [Rio Grande Valley Health Information Exchange](https://www.facebook.com/events/111332255955852/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://rgvhie.org/) | | Andrew Lombardo, Genaro Garza
+2016-05-17|	4| [ValleyProgress.org and Introduction to Drones](https://www.facebook.com/events/864037550385029/) | | [<i class="fa fa-info-circle" aria-hidden="true"></i>](valleyprogress.org)| Edward Yao, Michael Roa, Norb Lara
 2016-05-03|	3| [Open Data in the U.S. and Brownsville](https://www.facebook.com/events/1267715809923659/) | | | Alvaro Silva, Johnny Bender
-2016-04-19|	2| [Introduction to Code#RGV Brownsville](https://www.facebook.com/events/1032954170085752/) | | | Johnny Bender
+2016-04-19|	2| [Introduction to Code#RGV Brownsville](https://www.facebook.com/events/1032954170085752/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.codeforamerica.org/)| | Johnny Bender
 2016-04-05|	1| [The First Day](https://www.facebook.com/events/607420792747611/) | | | |
+||||||
