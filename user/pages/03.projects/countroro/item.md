@@ -9,4 +9,6 @@ Cheap bike traffic counter for bicycle trails in the RGV
 
 ===
 
-We are building a bike trail counter with Lidar sensors on an Electron microcontroller. See our progress here: [Bike trail GitHub Repo](https://github.com/DerMortos/trailCounter)
+We are building a bike trail counter with Lidar sensors on an Electron microcontroller.
+<br/>
+See our progress here: [Bike trail GitHub Repo](https://github.com/DerMortos/trailCounter)

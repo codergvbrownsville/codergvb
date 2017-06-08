@@ -10,4 +10,5 @@ Distribution of voters in Brownsville
 ===
 
 Created with <i class="fa fa-heart" aria-hidden="true"></i> by Code#RGV Brownsville volunteers
-[Brownsville Voters](http://brownsvillevoters.com/)
+<br/>
+[Brownsville Voters Site](http://brownsvillevoters.com/)
