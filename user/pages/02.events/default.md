@@ -32,6 +32,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Content | Video | Speakers|
 -----|---|-------|---------|
+2017-06-20| 29| [Southern Careers Institute](https://www.facebook.com/events/446909582351629/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.scitexas.edu/) | | William Slovak
 2017-06-06| 28| [Wix Web Design Workshop](https://www.facebook.com/events/124974144744935/) | [<i class="fa fa-slideshare" aria-hidden="true"></i>](https://docs.google.com/presentation/d/1e4nRVHEjuoRgGYN8HWpkppL3mr6l2wE0PGMnEf7m5mg/edit?usp=sharing) [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.wix.com/) | [<i class="fa fa-video-camera" aria-hidden="true"></i>](https://www.facebook.com/codergvbrownsville/videos/1819075155074323/) | Nayeli Gomez
 2017-05-16| 27| [Arduino Workshop](https://www.facebook.com/events/1308710035882364/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](https://www.arduino.cc/) | | Norb Lara
 2017-05-02| 26| [Hack Night](https://www.facebook.com/events/1330216183733091/) | | | |
