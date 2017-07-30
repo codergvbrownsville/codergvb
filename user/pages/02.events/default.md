@@ -32,6 +32,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Content | Video | Speakers|
 -----|---|-------|---------|
+2017-08-01| 32| [The Broken Sprocket](https://www.facebook.com/events/912114342278908) | | | 
 2017-07-17| 31| [Movie Night](https://www.facebook.com/events/1965613393670008/) | | | N/A
 2017-07-04| 30| [July 4 Party](https://www.facebook.com/events/107479486550238) | | | N/A
 2017-06-20| 29| [Southern Careers Institute](https://www.facebook.com/events/446909582351629/) | [<i class="fa fa-info-circle" aria-hidden="true"></i>](http://www.scitexas.edu/) | | William Slovak
