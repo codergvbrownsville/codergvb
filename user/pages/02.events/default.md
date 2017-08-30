@@ -32,6 +32,7 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Content | Video | Speakers|
 -----|---|-------|---------|
+2017-09-05| 34| [Hack Night](https://www.facebook.com/events/815616038599108/) | | | N/A
 2017-08-15| 33| [City of Brownsville Zika App](https://www.facebook.com/events/790664704427861) | | | Alvaro Silva
 2017-08-01| 32| [The Broken Sprocket & Nutrition Informatics](https://www.facebook.com/events/912114342278908) | | | Johnny Bender
 2017-07-17| 31| [Movie Night](https://www.facebook.com/events/1965613393670008/) | | | N/A
