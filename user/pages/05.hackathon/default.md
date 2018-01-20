@@ -3,7 +3,7 @@ title: "hackathon"
 ---
 
 <p style="text-align: center; font-size: 300%; font-weight:bold;">
-The First-ever Valley-Wide Hackathon</p>
+Instructions for The First-ever Valley-Wide Hackathon</p>
 ***
 
 <p style="text-align: center; font-size: 120%">
@@ -12,6 +12,14 @@ The First-ever Valley-Wide Hackathon</p>
 <p style="text-align: center; font-size: 120%">
 <a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Sponsor.pdf" download>Sponsorship Information</a>
 </p>
+
+#General Instructions:
+You will partner with a team to create an app, tool, data set, file, or other technology-related project over the next 30 hours. At the end of the working time, you and your team will present your project to the judges and other participants. The judges will score the projects, and the audience at the presentation will vote on the "Audience Favorite" award. Judges will award "Best Overall", "Runner-up", and "Audience Favorite" to winning teams.
+
+#Prizes:
++ ####**Best Overall - $400**
++ ####**Runner-up - $200**
++ ####**Audience Favorite - $200**
 
 #Suggested Challenges:
 *Note:* These are only _Suggested Challenges_. We encourage you to consider the vast quantity of publicly available data in the Rio Grande Valley and projects where you may have local expertise. There is no need to use a challenge from this list.
