@@ -14,12 +14,24 @@ Instructions for The First-ever Valley-Wide Hackathon</p>
 </p>
 
 #General Instructions:
-You will partner with a team to create an app, tool, data set, file, or other technology-related project over the next 30 hours. The only parameters for this project is that it be designed to *Assist the residents or organizations / agencies in the Rio Grande Valley in some way.* At the end of the working time, you and your team will present your project to the judges and other participants. The judges will score the projects, and the audience at the presentation will vote on the "Audience Favorite" award. Judges will award "Best Overall", "Runner-up", and "Audience Favorite" to winning teams.
+You will partner with a team to create an app, tool, data set, file, or other technology-related project over the next 30 hours. The only parameters for this project is that it be designed to **Assist the residents or organizations / agencies in the Rio Grande Valley in some way.** At the end of the working time, you and your team will present your project to the judges and other participants. The judges will score the projects, and the audience at the presentation will vote on the "Audience Favorite" award. Judges will award "Best Overall", "Runner-up", and "Audience Favorite" to winning teams.
 
 #Prizes:
 + ####**Best Overall - $400**
 + ####**Runner-up - $200**
 + ####**Audience Favorite - $200**
+
+#Teams:
++ ####**Team Name**
+    > Team member 1
+
+#Meals:
+Snacks and drinks will be available for the entire duration of the event
+Breakfast - January 20 @ 9:00 am
+Lunch - January 20 @ 12:00 pm
+Dinner - January 20 @ 9:00 pm
+Breakfast - January 21 @ 9:00 am
+Lunch - January 21 @ 12:00 pm
 
 #Suggested Challenges:
 *Note:* These are only _Suggested Challenges_. We encourage you to consider the vast quantity of publicly available data in the Rio Grande Valley and projects where you may have local expertise. There is no need to use a challenge from this list.
@@ -46,8 +58,8 @@ Create or implement an XML data parser for Continuity of Care Document Architect
 + ####**Make RGV bus route data available for Google Maps to consume**
 Convert PDF and text bus route data for bus routes in the Rio Grande Valley to the [The General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) separated by city and county in order for city and county government to make these files public and available to Google for integration with Google Maps for route planning in the Rio Grande Valley.
  + ####**Datasets**
-  + [Brownsville Bus Routes - MetroConnect](https://www.cob.us/701/Regional-Transportation)
-  + [Brownsville System-wide Map](https://www.cob.us/DocumentCenter/View/4017)
+    > [Brownsville Bus Routes - MetroConnect](https://www.cob.us/701/Regional-Transportation)
+    > [Brownsville System-wide Map](https://www.cob.us/DocumentCenter/View/4017)
 
 + ####**Water quality data dashboard for the Rio Grande Valley**
 Use public annual water quality reports from cities in the Rio Grande Valley to create a tool for residents of the Rio Grande Valley to use to monitor water quality. Liberate these data from PDFs!
