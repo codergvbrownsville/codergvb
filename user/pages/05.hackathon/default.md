@@ -7,9 +7,10 @@ The First-ever Valley-Wide Hackathon</p>
 ***
 
 <p style="text-align: center">
-<a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Information.pdf" download>**Information**</a>
-<p/>
-<a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Sponsor.pdf" download>**Sponsorship**</a>
+<a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Information.pdf" download>More Information</a>
+</p>
+<p style="text-align: center">
+<a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Sponsor.pdf" download>Sponsorship Information</a>
 </p>
 
 #Suggested Challenges:
