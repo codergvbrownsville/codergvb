@@ -25,6 +25,7 @@ You will partner with a team to create an app, tool, data set, file, or other te
 + ####**Audience Favorite - $200**
 
 #Teams:
+[Team Spreadsheet](https://docs.google.com/spreadsheets/d/1dFy-ZrgiSYRjTsHz0rUmD1n3Htg0oYH7IHmr5mvSSDw/edit?usp=sharing)
 + ####**Team Name**
     > Team member 1
 
