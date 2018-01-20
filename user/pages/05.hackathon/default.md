@@ -14,12 +14,12 @@ The First-ever Valley-Wide Hackathon</p>
 </p>
 
 #Suggested Challenges:
-*Note:* These are only _Suggested Challenges_. We encourage you to consider the vast quantity of publicly available data in the Rio Grande Valley and projects you may have local expertise in. There is no need to use a challenge from this list.
+*Note:* These are only _Suggested Challenges_. We encourage you to consider the vast quantity of publicly available data in the Rio Grande Valley and projects where you may have local expertise. There is no need to use a challenge from this list.
 
 + ####**Border wait time planning**
 Create a tool to help families in the Rio Grande Valley plan border crossings on a daily, weekly, monthly basis.
  + ####**Datasets**
-[Real-time border wait times by US Customs](https://bwt.cbp.gov/index.html)
+ [Real-time border wait times by US Customs](https://bwt.cbp.gov/index.html)
 
 + ####**Ambulance estimated time of arrival**
 Create a tool that is able to use the (1) GPS location of an ambulance, and (2) GPS location of a destination to provide an estimated time for ambulance arrival to a hospital Emergency Room.
@@ -39,6 +39,7 @@ Create or implement an XML data parser for Continuity of Care Document Architect
 Convert PDF and text bus route data for bus routes in the Rio Grande Valley to the [The General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) separated by city and county in order for city and county government to make these files public and available to Google for integration with Google Maps for route planning in the Rio Grande Valley.
  + ####**Datasets**
 [Brownsville Bus Routes - MetroConnect](https://www.cob.us/701/Regional-Transportation)
+
 [Brownsville System-wide Map](https://www.cob.us/DocumentCenter/View/4017)
 
 + ####**Water quality data dashboard for the Rio Grande Valley**
