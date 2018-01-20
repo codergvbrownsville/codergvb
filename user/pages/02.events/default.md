@@ -32,7 +32,16 @@ At this point, there’s usually a tenacious group of folks that migrate next do
 
 Date | # | Event | Content | Video | Speakers|
 -----|---|-------|---------|
-2017-09-19| 35| [Hack Night](https://www.facebook.com/events/776355039202573) | | | Hey what's up!
+2018-01-20| -| [The First Ever Valley-Wide Hackathon!](https://www.facebook.com/events/1405296442931805/) | | | N/A
+2018-01-16| 43| [Hack Night](https://www.facebook.com/events/121659435213651/) | | | N/A
+2018-01-02| 42| [Hack Night](https://www.facebook.com/events/699912516880997/) | | | N/A
+2017-12-19| 41| [Hack Night](https://www.facebook.com/events/689202514801715/) | | | N/A
+2017-12-05| 40| [Hack Night](https://www.facebook.com/events/334795093662262/) | | | N/A
+2017-11-21| 39| [Hack Night](https://www.facebook.com/events/2006418742975371/) | | | N/A
+2017-11-07| 38| [Hack Night](https://www.facebook.com/events/911247769040888/) | | | N/A
+2017-10-17| 37| [Hack Night](https://www.facebook.com/events/160193941235245/) | | | N/A
+2017-10-03| 36| [Hack Night](https://www.facebook.com/events/1480431818711214/) | | | N/A
+2017-09-19| 35| [Hack Night](https://www.facebook.com/events/776355039202573) | | | N/A
 2017-09-05| 34| [Hack Night](https://www.facebook.com/events/815616038599108/) | | | N/A
 2017-08-15| 33| [City of Brownsville Zika App](https://www.facebook.com/events/790664704427861) | | | Alvaro Silva
 2017-08-01| 32| [The Broken Sprocket & Nutrition Informatics](https://www.facebook.com/events/912114342278908) | | | Johnny Bender
