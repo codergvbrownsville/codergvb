@@ -6,10 +6,10 @@ title: "hackathon"
 The First-ever Valley-Wide Hackathon</p>
 ***
 
-<p style="text-align: center; font-size: 200%">
+<p style="text-align: center; font-size: 120%">
 <a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Information.pdf" download>More Information</a>
 </p>
-<p style="text-align: center; font-size: 200%">
+<p style="text-align: center; font-size: 120%">
 <a href="/user/pages/05.hackathon/pdfs/2018-RGV-Hackathon-Sponsor.pdf" download>Sponsorship Information</a>
 </p>
 
@@ -18,12 +18,12 @@ The First-ever Valley-Wide Hackathon</p>
 + ####**Border wait time planning**
 Create a tool to help families in the Rio Grande Valley plan border crossings on a daily, weekly, monthly basis.
 
-+ ####**Ambulance ETA**
++ ####**Ambulance estimated time of arrival**
 Create a tool that is able to use the (1) GPS location of an ambulance, and (2) GPS location of a destination to provide an estimated time for ambulance arrival to a hospital Emergency Room
 
 + ####**Population health dashboard**
-Create a population health dashboard based on common diseases in the 
+Create a population health dashboard based on common diseases in the Rio Grande Valley
  + ####**Datasets**
-Rio Grande Valley Needs Assessment
+<a href="/user/pages/05.hackathon/pdfs/RHP5-Needs-Assessment-2012.pdf" download>Rio Grande Valley Needs Assessment</a>
 
 <!-- <embed src="file_name.pdf" width="800px" height="2100px" /> -->
