@@ -20,30 +20,26 @@ Instructions for The First-ever Valley-Wide Hackathon</p>
 You will partner with a team to create an app, tool, data set, file, or other technology-related project over the next 30 hours. The only parameters for this project is that it be designed to **Assist the residents or organizations / agencies in the Rio Grande Valley in some way.** At the end of the working time, you and your team will present your project to the judges and other participants. The judges will score the projects, and the audience at the presentation will vote on the "Audience Favorite" award. Judges will award "Best Overall", "Runner-up", and "Audience Favorite" to winning teams.
 
 #Prizes:
-+ ####**Best Overall - $400**
-+ ####**Runner-up - $200**
-+ ####**Audience Favorite - $200**
++ ####**Best Overall - $250**
++ ####**Runner-up - $150**
++ ####**Audience Favorite - $100**
 
 #Teams:
 [Team Spreadsheet](https://docs.google.com/spreadsheets/d/1dFy-ZrgiSYRjTsHz0rUmD1n3Htg0oYH7IHmr5mvSSDw/edit?usp=sharing)
-+ ####**Team Name**
-    > Team member 1
++ ####**Organizers**
+    > John Bender
+    > Irene Wazgowska
 
 #Meals:
-Snacks and drinks will be available for the entire duration of the event
-Breakfast - January 20 @ 9:00 am
-Lunch - January 20 @ 12:00 pm
-Dinner - January 20 @ 9:00 pm
-Breakfast - January 21 @ 9:00 am
-Lunch - January 21 @ 12:00 pm
+* Snacks and drinks will be available for the entire duration of the event
+* Breakfast - January 20 @ 9:00 am
+* Lunch - January 20 @ 12:00 pm
+* Dinner - January 20 @ 9:00 pm
+* Breakfast - January 21 @ 9:00 am
+* Lunch - January 21 @ 12:00 pm
 
 #Suggested Challenges:
 *Note:* These are only _Suggested Challenges_. We encourage you to consider the vast quantity of publicly available data in the Rio Grande Valley and projects where you may have local expertise. There is no need to use a challenge from this list.
-
-+ ####**Border wait time planning**
-Create a tool to help families in the Rio Grande Valley plan border crossings on a daily, weekly, monthly basis.
- + ####**Datasets**
-    > + [Real-time border wait times by US Customs](https://bwt.cbp.gov/index.html)
 
 + ####**Ambulance estimated time of arrival**
 Create a tool that is able to use the (1) GPS location of an ambulance, and (2) GPS location of a destination to provide an estimated time for ambulance arrival to a hospital Emergency Room.
@@ -58,6 +54,11 @@ Create a population health dashboard for health departments in the Rio Grande Va
 Create or implement an XML data parser for Continuity of Care Document Architecture (CCDA) documents to allow the Rio Grande Valley Health Information Exchange to move past only storing original clinical documents. RGV HIE wishes to parse medical data from CCDs and load them into a structured data model.
  + ####**Datasets**
     > + [Sample CCDAs](https://github.com/jmandel/sample_ccdas)
+
++ ####**Border wait time planning**
+Create a tool to help families in the Rio Grande Valley plan border crossings on a daily, weekly, monthly basis.
+ + ####**Datasets**
+    > + [Real-time border wait times by US Customs](https://bwt.cbp.gov/index.html)
 
 + ####**Make RGV bus route data available for Google Maps to consume**
 Convert PDF and text bus route data for bus routes in the Rio Grande Valley to the [The General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) separated by city and county in order for city and county government to make these files public and available to Google for integration with Google Maps for route planning in the Rio Grande Valley.
@@ -82,4 +83,5 @@ Create a public resource directory in the Rio Grande Valley using standards like
  + ####**Datasets**
     > + Binder-based paper resource directory for the Cameron County Department of Health and Human Services
 
-<!-- <embed src="file_name.pdf" width="800px" height="2100px" /> -->
++ ####**Improve the public data request process for Weslaco city / Rio Grande Valley**
+Create a data portal for the Rio Grande Valley to generate public data requests to various local governmental agencies. Can also work to digitize the public data request process for specific goveernment bodies, like the City of Weslaco.
