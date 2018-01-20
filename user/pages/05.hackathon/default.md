@@ -14,7 +14,7 @@ Instructions for The First-ever Valley-Wide Hackathon</p>
 </p>
 
 #General Instructions:
-You will partner with a team to create an app, tool, data set, file, or other technology-related project over the next 30 hours. At the end of the working time, you and your team will present your project to the judges and other participants. The judges will score the projects, and the audience at the presentation will vote on the "Audience Favorite" award. Judges will award "Best Overall", "Runner-up", and "Audience Favorite" to winning teams.
+You will partner with a team to create an app, tool, data set, file, or other technology-related project over the next 30 hours. The only parameters for this project is that it be designed to *Assist the residents or organizations / agencies in the Rio Grande Valley in some way.* At the end of the working time, you and your team will present your project to the judges and other participants. The judges will score the projects, and the audience at the presentation will vote on the "Audience Favorite" award. Judges will award "Best Overall", "Runner-up", and "Audience Favorite" to winning teams.
 
 #Prizes:
 + ####**Best Overall - $400**
