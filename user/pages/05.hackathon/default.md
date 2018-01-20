@@ -58,8 +58,8 @@ Create or implement an XML data parser for Continuity of Care Document Architect
 + ####**Make RGV bus route data available for Google Maps to consume**
 Convert PDF and text bus route data for bus routes in the Rio Grande Valley to the [The General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) separated by city and county in order for city and county government to make these files public and available to Google for integration with Google Maps for route planning in the Rio Grande Valley.
  + ####**Datasets**
-    > [Brownsville Bus Routes - MetroConnect](https://www.cob.us/701/Regional-Transportation)
-    > [Brownsville System-wide Map](https://www.cob.us/DocumentCenter/View/4017)
+    > + [Brownsville Bus Routes - MetroConnect](https://www.cob.us/701/Regional-Transportation)
+    > + [Brownsville System-wide Map](https://www.cob.us/DocumentCenter/View/4017)
 
 + ####**Water quality data dashboard for the Rio Grande Valley**
 Use public annual water quality reports from cities in the Rio Grande Valley to create a tool for residents of the Rio Grande Valley to use to monitor water quality. Liberate these data from PDFs!
