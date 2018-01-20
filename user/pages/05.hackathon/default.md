@@ -18,9 +18,11 @@ The First-ever Valley-Wide Hackathon</p>
 
 + ####**Border wait time planning**
 Create a tool to help families in the Rio Grande Valley plan border crossings on a daily, weekly, monthly basis.
+ + ####**Datasets**
+[Real-time border wait times by US Customs](https://bwt.cbp.gov/index.html)
 
 + ####**Ambulance estimated time of arrival**
-Create a tool that is able to use the (1) GPS location of an ambulance, and (2) GPS location of a destination to provide an estimated time for ambulance arrival to a hospital Emergency Room
+Create a tool that is able to use the (1) GPS location of an ambulance, and (2) GPS location of a destination to provide an estimated time for ambulance arrival to a hospital Emergency Room.
 
 + ####**Population health dashboard**
 Create a population health dashboard for health departments in the Rio Grande Valley based on common diseases in the Rio Grande Valley. Data will be available from the Rio Grande Valley Health Information Exchange. You can also assume and use the [Fast Healthcare Interoperability Resources (FHIR) standard](https://www.hl7.org/fhir/) and the [HAPI FHIR sample FHIR database](http://hapifhir.io/).
@@ -47,7 +49,7 @@ Use public annual water quality reports from cities in the Rio Grande Valley to 
 [Brownsville City - 2017](http://www.brownsville-pub.com/home/showdocument?id=34)
 
 + ####**Updated Rio Grande Valley Voter Map**
-Create an updated voter map for the Rio Grande Valley for local and national elections
+Create an updated voter map for the Rio Grande Valley for local and national elections.
  + ####**Datasets**
  [Brownsville Voter Map - Outdated](http://brownsvillevoters.com/)
 
