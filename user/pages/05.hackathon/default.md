@@ -14,6 +14,7 @@ The First-ever Valley-Wide Hackathon</p>
 </p>
 
 #Suggested Challenges:
+*Note:* These are only _Suggested Challenges_. We encourage you to consider the vast quantity of publicly available data in the Rio Grande Valley and projects you may have local expertise in. There is no need to use a challenge from this list.
 
 + ####**Border wait time planning**
 Create a tool to help families in the Rio Grande Valley plan border crossings on a daily, weekly, monthly basis.
@@ -47,6 +48,12 @@ Use public annual water quality reports from cities in the Rio Grande Valley to 
 
 + ####**Updated Rio Grande Valley Voter Map**
 Create an updated voter map for the Rio Grande Valley for local and national elections
-[Brownsville Voter Map - Outdated](http://brownsvillevoters.com/)
+ + ####**Datasets**
+ [Brownsville Voter Map - Outdated](http://brownsvillevoters.com/)
+
++ ####**Create a public resource directory for the Rio Grande Valley**
+Create a public resource directory in the Rio Grande Valley using standards like those found at [openreferral](https://openreferral.org/) and potentially by using [ohana web search](https://github.com/codeforamerica/ohana-web-search) and [ohana api](https://github.com/codeforamerica/ohana-api). Project can include digitizing and categorizing Cameron County Department of Health and Human Services Resource Directory. Extra features would include the ability for a case worker to login and make a list of resources they have a relationship with.
+ + ####**Datasets**
+ Binder-based paper resource directory for the Cameron County Department of Health and Human Services
 
 <!-- <embed src="file_name.pdf" width="800px" height="2100px" /> -->
